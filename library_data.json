@@ -78,9 +78,9 @@
         "email": "jean.dupont@email.com",
         "registrationDate": "2023-01-15"
       },
-      "borrowDate": "2025-12-11 19:34:14",
-      "returnDate": "2025-12-25",
-      "returnedOn": "2025-12-11 19:34:14",
+      "borrowDate": "2025-12-12 20:07:06",
+      "returnDate": "2025-12-26",
+      "returnedOn": "2025-12-12 20:07:06",
       "returned": true
     },
     {
@@ -99,11 +99,11 @@
         "email": "marie.martin@email.com",
         "registrationDate": "2023-02-20"
       },
-      "borrowDate": "2025-12-11 19:34:14",
-      "returnDate": "2025-12-25",
+      "borrowDate": "2025-12-12 20:07:06",
+      "returnDate": "2025-12-26",
       "returnedOn": null,
       "returned": false
     }
   ],
-  "timestamp": "2025-12-11T17:34:14.208Z"
+  "timestamp": "2025-12-12T18:07:06.276Z"
 }

@@ -57,7 +57,7 @@ export const borrowBookByUser = (userId: number, bookId: number): boolean => {
         if (e instanceof Error) {
             console.error(e.message);
         } else {
-            console.log('Unknown error occured whilst borrowing book: ', e);
+            console.error('Unknown error occured whilst borrowing book: ', e);
         }
         console.log(`❌ Cannot borrow book ID ${bookId}`);
         return false;
